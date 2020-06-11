@@ -1,4 +1,6 @@
 # Vue.js, Typescript, Vuex, Vue-Router, i18n, Font Awesome
+# User Portfolio 
+![user1](https://user-images.githubusercontent.com/66742166/84377889-f8a8a200-ac00-11ea-9faa-6ba3724326c2.png)
 
 A typescript for Vue.js with Vue CLI 3.x that uses:
 - vuex
