@@ -1,4 +1,4 @@
-# Vue.js, Typescript, Vuex, Vue-Router, Element-UI, i18n, axios, Font Awesome
+# Vue.js, Typescript, Vuex, Vue-Router, i18n, axios, Font Awesome
 
 A typescript for Vue.js with Vue CLI 3.x that uses:
 - vuex
