@@ -1,0 +1,15 @@
+@import 'variables';
+@import "~element-ui/packages/theme-chalk/src/index";
+
+#app {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html, body {
+  margin: 0;
+}
+.container {
+  max-width: 1170px;
+}
